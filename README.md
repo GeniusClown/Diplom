@@ -6,8 +6,7 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 
 <h1>План:</h1>
 
-1. ПК 
-2. прибыль
-3. -
-4. C#
-5. Unity
+1. Выбор темы: ПК
+2. Прибыль
+3. Нейронка
+4. Unity/Яндекс.Игры
