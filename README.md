@@ -12,4 +12,5 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 4. Unity/Яндекс.Игры
 
 
+![duncraig1](https://github.com/GeniusClown/Diplom/assets/97594452/022a3c11-1d6a-4912-bbef-a199216db41a)
 
