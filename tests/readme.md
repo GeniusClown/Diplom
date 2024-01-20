@@ -1,4 +1,5 @@
 ![image](https://github.com/GeniusClown/Diplom/assets/97594452/342d3ecf-5718-40a9-b26c-a1822c6ff215)
 ![image](https://github.com/GeniusClown/Diplom/assets/97594452/17be0972-5039-44f7-a14b-46bb8ee832c7)
+![image](https://github.com/GeniusClown/Diplom/assets/97594452/cbe127d1-31fe-4d5e-916d-3d4906db68f3)
 ![image](https://github.com/GeniusClown/Diplom/assets/97594452/e1e3a816-6730-4f1f-9a0b-959f257a8a37)
 ![image](https://github.com/GeniusClown/Diplom/assets/97594452/a348c35a-2ec2-4589-b9f9-15550de80c1b)
